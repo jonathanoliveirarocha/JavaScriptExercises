@@ -1,0 +1,19 @@
+body{
+    background: rgb(161, 161, 223);
+    font: normal 15pt Arial;
+    text-align: center;
+    padding: 200px;
+}
+
+section{
+    background: #e1e1f3;
+    width: 500px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: auto; 
+    box-shadow: 3px 5px 8px rgba(57, 36, 59, 0.514);
+    text-align: left;
+}
+footer{
+    font-style: italic;    
+}
