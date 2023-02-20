@@ -1,4 +1,4 @@
-# ExerciciosJavaScript
-Este repositório contém a resolução dos exercícios do curso de JavaScript do canal Curso em Vídeo
+# JavaScriptExercises
+This repository contains the resolution of the JavaScript course exercises from the Curso em Vídeo channel.
 
-Curso disponível em: <a href="https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Curso em Vídeo - JavaScript</a>
+Course available at: <a href="https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm">Curso em Vídeo - JavaScript</a>
